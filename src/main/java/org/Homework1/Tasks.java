@@ -23,7 +23,7 @@ public class Tasks {
     // На промежутке от 1 до N, показать кубы чисел, заканчивающихся на четную цифру
     public static void sumOfCubes(int n) {
         System.out.println("Кубы чисел от 1 до N, заканчивающиеся на четную цифру:");
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
             if (Math.pow(i, 3) % 2 == 0) {
                 System.out.println(Math.pow(i, 3));
             }
