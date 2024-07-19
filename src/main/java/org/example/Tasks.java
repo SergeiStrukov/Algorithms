@@ -5,8 +5,9 @@ import java.util.List;
 
 public class Tasks {
     public static void main(String[] args) {
-        List<Integer> list = List.of(0, 1, 5, 6, 8);
-        System.out.println(sortArray(list));
+//        List<Integer> list = List.of(0, 1, 5, 6, 8);
+//        System.out.println(sortArray(list));
+
     }
 
     public static List<Integer> sortArray(List<Integer> list) {
