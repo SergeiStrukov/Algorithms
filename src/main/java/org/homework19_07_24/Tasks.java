@@ -1,6 +1,4 @@
-package org.Homework19_07_24;
-
-import java.util.Arrays;
+package org.homework19_07_24;
 
 public class Tasks {
     //    Имея два отсортированных массива размера m и n соответственно, вам нужно найти элемент,
